@@ -30,7 +30,7 @@ Want to help contribute recipes or tutorials into the [Sinatra
 Book][sinatra-book]?
 
 Check out the [Sinatra Recipes][sinatra-recipes] project for all of
-the recent additions from the community.
+the recent additions from the community peeps.
 
 If you're looking for something to work on be sure to check the [issue
 tracker][issues] first, then read up on the [styling
